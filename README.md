@@ -13,5 +13,5 @@ It includes-
     
      : Timings page - time.html
 
-THE HTML files are the website pages connected to each other and rest all are the images used in the website and the order of files are alphabetical.
+THE HTML files are the website pages connected to each other and rest all are the images used in the website and the order of files are     alphabetical.
 
